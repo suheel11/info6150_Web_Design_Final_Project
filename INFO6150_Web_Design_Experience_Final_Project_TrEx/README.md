@@ -43,8 +43,8 @@ Links for reference:
 
 2. Clone the project from GitHub Repository and Install all the necessary packages
 ```sh
-git clone https://github.com/MaheshPrasad44/TrEx-WebProject
-cd final-project-cruisers
+git clone https://github.com/suheel11/info6150_Web_Design_Final_Project.git
+cd INFO6150_Web_Design_Experience_Final_Project_TrEx
 npm install
 ```
 3. Start node.js server
